@@ -11,7 +11,7 @@ namespace _01_RefrenceTypes
         static void Main(string[] args)
         {
             // Strings 
-            string declared;
+            string declared; 
             declared = "This is assignment.";
             //Write out something to the console
             Console.WriteLine("What is your first name?");
